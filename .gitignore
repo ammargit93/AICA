@@ -1,3 +1,5 @@
 /heart_ecg_monitor/__pycache__/
-/heart_ecg_monitor/uploads/
-/heart_ecg_monitor/ECG_Images/
+/heart_ecg_monitor/heart_ecg_monitor/uploads/
+/heart_ecg_monitor/heart_ecg_monitor/ECG_Images/
+/heart_ecg_monitor/heart_ecg_monitor/saved_models/
+/heart_ecg_monitor/heart_ecg_monitor/__pycache__/
