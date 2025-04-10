@@ -1,0 +1,6 @@
+/venv/
+/heart_ecg_monitor/ECG_Images/
+/heart_ecg_monitor/__pycache__/
+/heart_ecg_monitor/uploads/
+
+/__pycache__/
